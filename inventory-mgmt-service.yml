@@ -1,0 +1,3 @@
+stock:
+  transport-type: cargo
+  sla-days: 20
